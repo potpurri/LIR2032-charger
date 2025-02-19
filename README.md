@@ -64,6 +64,3 @@ Back view of the PCB
 
 For detailed schematics, please refer to the [schematic PDF](LIR2032-charger/imgs/schematic.pdf).
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
