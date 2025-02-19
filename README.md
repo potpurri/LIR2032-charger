@@ -8,6 +8,10 @@ This project features a charging board for LIR2032 batteries. It uses a TP4056 t
 
 **Note:** This project is a work in progress. The purpose is to have fun and learn more about these technologies.
 
+Below is an image of the PCB, assembled and unassembled, front and back:
+
+<img src="LIR2032-charger/imgs/pcb.jpg" alt="PCB" width="600">
+
 ## Features
 
 The board includes the following components:
@@ -34,6 +38,10 @@ The board includes the following components:
 | 82k          | 14.6                   |
 | 100k         | 12.0                   |
 
+Below is an image showing the board being charged with approximately 37mA:
+
+<img src="LIR2032-charger/imgs/charging.jpg" alt="Charging" width="600">
+
 ## Images
 
 Below are images of the PCB:
@@ -58,3 +66,6 @@ Back view of the PCB
 
 For detailed schematics, please refer to the [schematic PDF](LIR2032-charger/imgs/schematic.pdf).
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
